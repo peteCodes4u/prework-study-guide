@@ -2,7 +2,7 @@
 
 ## Description
 
-This study guide is used to easily and readily identify organized information specific to web development using HTML, CSS, and JavaScript. Additionally the topic GIT will be included here within.
+This study guide is used to easily and readily identify organized information specific to web development using HTML, CSS, and JavaScript. Additionally the topic GIT will be included here within but covered in less detail.
 
 - This project was motivated by the desire to more deeply understand each component of web development.
 - This project was built specifically to explore the web development basics with first hand experience and to document the fundamental topics.
